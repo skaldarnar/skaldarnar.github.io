@@ -3,6 +3,8 @@ layout: post
 title: How to get into GSOC - A Mentor's Point of View
 categories:
 - blog
+tags:
+- gsoc
 ---
 
 I've been spending some time with the [Terasology](http://terasology.org) open source project over the last years, and by attending last years 
