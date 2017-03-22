@@ -39,7 +39,7 @@ And in the end, we are people that help you to solve issues, remove obstacles, a
 
 ---
 
-Maybe this helps some of you to get an impression of what Google Summer of Code looks from the other side. We are happy for every new face that shoes up and you can contribute no matter if you get a slot for the summer project or not. Look out for interesting projects, reach out to the community and become part of open source software development!
+Maybe this helps some of you to get an impression of what Google Summer of Code looks from the other side. We are happy for every new face that ~~shoes~~ shows up and you can contribute no matter if you get a slot for the summer project or not. Look out for interesting projects, reach out to the community and become part of open source software development!
 
 
 
