@@ -112,7 +112,7 @@ The application period has just started, and you are not in hurry to complete th
   discussion that lead to a pleasing graphic illustrating the idea - add it to the proposal!
 
 I as a mentor like to see how a student adapts the proposal based on feedback. However, I don't like to find parts unchanged
-which I clearly advised to rethink them. We are not trying to proof you wrong, we are just trying to make sure your summer project
+which I clearly advised to rethink them. We are not trying to prove you wrong, we are just trying to make sure your summer project
 will be a success. If we ask to clarify a sentence we want to assure that we are not talking at cross purposes. Estimations on your
 timeline are based on our experience with the code base. If you are faster than expected, there will always be _stretch goals_ you
 can work on.
