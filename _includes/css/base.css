@@ -44,9 +44,32 @@
 	q:before, q:after {
 		content: '';
 		content: none; }
+
 	table {
-		border-collapse: collapse;
-		border-spacing: 0; }
+	  width: 100%;
+	  font-size: 0.8rem;
+	  border-collapse: collapse;
+	  border-bottom: 2px solid black;
+	}
+
+	thead {
+	  border-bottom: 2px solid black;
+	}
+
+	th {
+	  padding: 0.5em;
+	  font-weight: bold;
+	  text-align: left;
+	}
+
+	td {
+	  border-bottom: 1px solid black;
+	  padding: 0.5em;
+	}
+
+	tr, th {
+	  vertical-align: middle;
+	}
 
 
 /* #Basic Styles
@@ -334,5 +357,3 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
-
-
