@@ -19,3 +19,9 @@
     background: #6f4e37;
     color: #fff;
 }
+
+.github-link::after {
+    content: '\f09b';
+    font-family: FontAwesome;
+    padding-left: .2em;
+}
