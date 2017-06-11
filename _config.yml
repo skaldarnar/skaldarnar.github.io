@@ -28,7 +28,8 @@ github_username:  jekyll
 markdown: kramdown
 #highlighter: pygments
 theme: lagom
-#gems:
+gems:
+  - jemoji
 #    - jekyll-feed
 exclude:
      - Gemfile

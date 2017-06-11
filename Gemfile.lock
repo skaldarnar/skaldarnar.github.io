@@ -199,6 +199,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
   pygments.rb
 
 BUNDLED WITH
